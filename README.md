@@ -1,3 +1,5 @@
-Welcome to my GitHub! It's currently under construction as I reupload all of my previous projects and make this account my main account. You may find new things every time you visit, and you can check my blog (which is admittedly also under construction) to see WIP projects and sketches. ETA on construction being finished should be less than one week, I'd be honored if you stuck around.
+Welcome to my Github! If you are looking for my website, it's at playerpeter1231.github.io
+
+Most of my public repositories have writeups on my website, so if you are looking for playable demos, you can explore there. Feel free to message me if you need to, or reach me at my email peterrowe.tech@gmail.com
 
 -Peter
